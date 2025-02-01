@@ -4,7 +4,7 @@ Overview
 
 This project explores the parallelization of steganography using genetic algorithms and visual cryptography. The approach enhances the security of hidden information while optimizing computational efficiency through parallel processing techniques.
 
-Features
+# Features
 
 Parallelization: Accelerates the encoding and decoding processes.
 
@@ -14,7 +14,7 @@ Visual Cryptography: Ensures secure data hiding and retrieval.
 
 High Performance Computing (HPC): Implements parallel execution to improve speed and scalability.
 
-Technologies Used
+# Technologies Used
 
 C
 
@@ -24,7 +24,7 @@ OpenCV (if applicable)
 
 CUDA (if applicable)
 
-Installation
+# Installation
 
 Clone the repository:
 
@@ -49,7 +49,7 @@ Visual Cryptography Sharing: Generate shares for the hidden message.
 
 ./generate_shares output.png 2
 
-Performance Optimization
+# Performance Optimization
 
 Implements OpenMP/MPI for parallel execution.
 
@@ -57,7 +57,7 @@ Uses GPU acceleration (CUDA) for genetic algorithm optimization.
 
 Reduces processing time significantly through HPC techniques.
 
-Applications
+# Applications
 
 Secure Communication: Protects sensitive data through steganographic techniques.
 
@@ -65,7 +65,7 @@ Digital Watermarking: Embeds invisible security marks in images.
 
 Cryptographic Security: Enhances data privacy with visual cryptography.
 
-Future Enhancements
+# Future Enhancements
 
 Implement deep learning models to further enhance security.
 
